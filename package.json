@@ -1,0 +1,12 @@
+{
+  "name": "Pharma-StyleGuide",
+  "version": "1.0.0",
+  "description": "Docs",
+  "main": "index.js",
+  "author": "hector.acuna@newtoms.com",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
