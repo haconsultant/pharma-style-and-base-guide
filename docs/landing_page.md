@@ -8,7 +8,6 @@ Esta seria la primera vista de cara al usuario en la cual se muestra en forma de
 
 ![An image](./img/_landingpage.png)
 
-
 [[toc]]
 
 ## Upper Section
@@ -17,23 +16,20 @@ Esta seccion pude servir como demo de uno de los servicios de la plataforma dado
 
 ![An image](./img/_landinguppersection.png)
 
-
 ## About Section
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Este bloque mostrara informacion de la empresa y su mensaje cara al publico, contenido acerca de la mision vision.
 
 ![An image](./img/_aboutsection.png)
 
 ## Client's Section
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Mostrara informacion de los clientes que usaran la plataforma.
+
+![An image](./img/_clientssection.png)
 
 ## Services Section
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Informacion de los servicios de nuestra plataforma.
+
+![An image](./img/_servicessection.png)
